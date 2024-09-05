@@ -4,4 +4,6 @@
 
 ![alt text](new_mexico.jpg)
 [Amazon](https://www.amazon.com)
-[title](https://www.youtube.com/watch?v=_uQrJ0TkZlc.com)
+[youtbe python video](https://www.youtube.com/watch?v=_uQrJ0TkZlc.com)
+`The print() function prints the specified message to the screen, or other standard output device.`
+
