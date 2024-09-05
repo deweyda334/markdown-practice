@@ -7,5 +7,5 @@
 [youtbe python video](https://www.youtube.com/watch?v=_uQrJ0TkZlc.com)
 `The print() function prints the specified message to the screen, or other standard output device.`
 ## About Me
-**im a god at beat saber.**
-*i have 4 dogs.*
+**im a God at Beat Saber.**
+*I have 4 dogs.*
